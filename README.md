@@ -1,8 +1,6 @@
----
 ![background2](https://github.com/ysnhasan1/Bootstrap-Grid-System/assets/102024926/2b112b01-1b6e-41ca-a3cf-6b0157ef0321)
-<h3 align="center">I am currently learning web development. I know that as long as I don’t give up, I will get better.</h3>
 
----
+<h3 align="center">I am currently learning web development. I know that as long as I don’t give up, I will get better.</h3>
 
 #### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -13,12 +11,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysnhasan1) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-yasen) 
 
-
 Contact Me: </br> **ysnhasan1@gmail.com**
-
----
