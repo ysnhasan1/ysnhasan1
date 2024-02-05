@@ -1,7 +1,7 @@
 ![background2](https://github.com/ysnhasan1/Bootstrap-Grid-System/assets/102024926/2b112b01-1b6e-41ca-a3cf-6b0157ef0321)
 
-<h4 align="center">I am currently learning web development. I try to improve myself every day by doing different projects.</h4> 
-<h4 align="center">I know that as long as I do not give up, I will get better.</h4>
+<h4 align="center">Currently, I am continuously learning about web development, mainly focusing on frontend technologies and its various aspects.</h4>
+<h4 align="center">I try to get better each day by working on different projects.</h4>
 
 #### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
